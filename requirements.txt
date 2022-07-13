@@ -1,0 +1,3 @@
+setuptools~=60.5.0
+telegram~=13.13
+PyYAML~=6.0
